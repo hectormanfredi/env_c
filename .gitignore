@@ -1,2 +1,8 @@
 *.exe
 debug.log
+
+# Executáveis gerados localmente ao compilar os exercícios em C
+aula01/main
+aula02/exercicios/exercicio02
+aula_programacao_estruturada_em_c/exercicios_bittencourt/exercicio01
+aula_programacao_estruturada_em_c/exercicios_bittencourt/exercicio-calc-imc
